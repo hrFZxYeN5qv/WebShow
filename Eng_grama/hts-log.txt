@@ -1,0 +1,7 @@
+HTTrack2.2 launched on Fri, 26 Sep 2003 17:19:42 at http://www.npc.edu.hk/staff/~ngtungying/english_grammar/contents.htm +*.png +*.gif +*.jpg
+(winhttrack -qwC2&Ps2u1N0p3DaH0f#f -F "Mozilla/4.5 (compatible; HTTrack 2.0x; Windows 98)" -&F "<!-- Mirrored from %s by HTTrack Website Copier/2.x [XR/YP'2000] -->" http://www.npc.edu.hk/staff/~ngtungying/english_grammar/contents.htm -O "G:\Laurence\doc\personal\English Grammar","G:\Laurence\doc\personal\English Grammar" +*.png +*.gif +*.jpg )
+
+Informations, Warnings and Errors reported for this mirror:
+
+HTTrack mirror complete in 23 seconds : 109 links scanned, 108 files written (564394 bytes overall) [591557 bytes received at 25719 bytes/sec]
+(No errors, 0 warnings, 0 messages)
